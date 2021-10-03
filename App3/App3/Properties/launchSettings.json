@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "App3": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
